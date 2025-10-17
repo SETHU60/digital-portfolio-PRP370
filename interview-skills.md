@@ -6,7 +6,7 @@ Feedback from lecturers and peers helped me identify areas for improvement such 
 
 **Artefacts:**
 
-- [Interview Preparation Notes (PDF)](interview-notes.pdf)
+- [Interview Preparation Notes (PDF)](Interview_Preparation_Notes.pdf)
 
 ---
 
