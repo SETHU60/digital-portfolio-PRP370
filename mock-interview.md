@@ -4,7 +4,7 @@
 I completed a formal mock interview session where I was evaluated on communication, professionalism, and technical understanding.  
 
 **Artefacts:**
-- [Mock Interview Video Link](assets/mock-interview-video-link.txt)
+- [Mock Interview Video Link](William Siphosethu Makhambeni 221272976.3gp)
 
 ---
 
